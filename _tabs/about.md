@@ -4,5 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+**"이용자가 없는 서비스는 아무 가치가 없다"**<br>
+위와 같은 개발 이념으로 이용자 중심의 서비스 제공을 추구하는 개발 자를 목표로 합니다.<br>
+스마트폰, 태블릿 등 휴대 가능한 하드웨어 환경에서 구동 가능한 모바일 애플리케이션 개발과 웹 앱 개발에 관심이 많습니다.<br>
+Unity 엔진을 사용한 게임 개발에도 관심이 많습니다.
