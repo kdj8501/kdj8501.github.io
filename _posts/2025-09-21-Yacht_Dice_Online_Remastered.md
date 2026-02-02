@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2025-02-12
-last_modified_at: 2025-02-12
+date: 2025-09-21
+last_modified_at: 2025-09-21
 ---
 ## **Yacht Dice Online Remastered**
 
