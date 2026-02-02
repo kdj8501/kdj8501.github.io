@@ -18,7 +18,7 @@ last_modified_at: 2024-11-26
 
 개발인원: 1명 / 개발기간: 2022.12. ~ 서비스 중
 
-![https://play.google/howplayworks/static/assets/social/share_google_play_logo.png](https://play.google/howplayworks/static/assets/social/share_google_play_logo.png)
+![GooglePlay Icon](https://i.namu.wiki/i/DEQCC6D-5vUjl2WjUB7KpIR8fOvO-NkQgbKmgZfH_q-d34i_CfhM-xMlJx_nSIx-2eYNFHsJlOf--17EAJizsg.svg)
 
 ![yacht_icon.png](assets/posts/yacht_icon.png)
 
