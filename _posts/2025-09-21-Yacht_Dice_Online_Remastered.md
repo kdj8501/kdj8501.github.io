@@ -5,7 +5,7 @@ excerpt: "안드로이드 Flutter 기반 온라인 주사위 점수 경쟁 게�
 categories:
     - Blog
 tags:
-    - [Blog, Python, yolo, ultralytics, opencv]
+    - [Blog, Flutter, Dart, Android, node.js, GooglePlay]
 
 toc: true
 toc_sticky: true
